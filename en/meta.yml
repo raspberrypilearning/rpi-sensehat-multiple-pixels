@@ -1,6 +1,6 @@
 title: Setting multiple pixels on the Sense HAT
 hero_image: images/banner.png
-description: Learn how to set multiple pixels at once with the set_pixels method
+description: Learn how to set multiple pixels at the same time with the `set_pixels` method
 original_url:
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
