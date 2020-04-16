@@ -1,0 +1,14 @@
+---
+title: Meerdere pixels instellen op de Sense HAT
+hero_image: images/banner.png
+description: Leer hoe je meerdere pixels tegelijkertijd kunt instellen met de methode `set_pixels`
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - title: Stap een
