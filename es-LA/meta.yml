@@ -1,0 +1,14 @@
+---
+title: Establecer múltiples píxeles en el Sense HAT
+hero_image: images/banner.png
+description: Aprende a establecer múltiples píxeles, que se activen al mismo tiempo, con el método `set_pixels`
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - title: Primer paso
