@@ -1,0 +1,15 @@
+---
+title: Sense HAT पर कई पिक्सल्स सेट करना
+hero_image: images/banner.png
+description: '`set_pixels` method के उपयोग से एक ही साथ कई पिक्सेल सेट करना सीखें'
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - 
+    title: पहला चरण
