@@ -1,0 +1,4 @@
+name: "Sense HAT Steve face"
+identifier: "rpi-sensehat-multiple-pixels-steve"
+type: 'python'
+build: true

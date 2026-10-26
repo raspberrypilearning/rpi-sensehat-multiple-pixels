@@ -1,0 +1,4 @@
+name: "Sense HAT creeper face"
+identifier: "rpi-sensehat-multiple-pixels-creeper"
+type: 'python'
+build: true
